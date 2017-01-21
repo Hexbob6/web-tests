@@ -55,10 +55,10 @@ body {
     transform: translateY(-50%);
 }
 
-.hamburger img:hover {
+/*.hamburger img:hover {
     content: url(img/hamburger_icon_02.png);
     cursor: pointer;
-}
+}*/
 
 input[type=checkbox]#ham_toggle:checked ~ label img {
     display: block;
